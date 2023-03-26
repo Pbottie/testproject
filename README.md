@@ -1,3 +1,8 @@
+# To get it to work
+
+Create a .env file and put in the api key into REACT_APP_API_KEY
+REACT_APP_API_KEY = key
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
